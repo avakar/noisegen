@@ -10,6 +10,6 @@
     <ResourceCompile Include="noisegen.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icon1.ico" />
+    <Image Include="main.ico" />
   </ItemGroup>
 </Project>
